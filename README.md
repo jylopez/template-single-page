@@ -1,5 +1,5 @@
 # template-single-page
-Serverless, single-page website with React
+Boilerplate website with React
 
 ## Dev environment
 1. ```http-server```
